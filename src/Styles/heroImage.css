@@ -5,24 +5,32 @@
     margin-top: 71px;
     /* background-position: center; */
     padding: 1px;
-    
     display: flex; 
-    
     align-items: flex-end;
-    padding-bottom: 5%;
+
 }
 
 .hero-image h1{
-    font-size: 72px;
-    margin:0px;
-    text-shadow: 0px 0px 4px #000;
-    text-align: center;
+    padding-bottom: 2%;
+    font-size: 60px;
+    text-shadow: 0px 0px 4px #aeea00;
+    text-align: right;
+    width: 30%;
+    margin-left: 70%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.hero-image p{
+.creative-hero{
+    color: #4caf50;
+}
+
+
+.info{
+    bottom: 50px;
     font-size: 20px;
-    text-shadow: 0px 0px 2px #000;
+    text-shadow: 0px 0px 1px #000;
     text-align: justify;
-    padding-left: 55%;
-    padding-right: 5%;
+    margin-top: 40px;
+    margin-left: 55%;
+    margin-right: 2%;
 }
