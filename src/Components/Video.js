@@ -7,15 +7,13 @@ const Video = () => {
     const videoSrc = Car;
 
     return(
-        <body>
-            <br></br> 
+        <div>
             <center>
-            <div className="video-player">
-                <ReactPlayer src={videoSrc} width="700%"></ReactPlayer>
-            </div>
+                <div className="video-player">
+                    <ReactPlayer src={videoSrc} width="700%"></ReactPlayer>
+                </div>
             </center>
-            <br></br>
-        </body>
+        </div>
         
     )
 }

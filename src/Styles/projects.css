@@ -1,0 +1,23 @@
+.card-deck{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.carousel-indicators li{
+    background-color: #1c2a48;
+}
+
+.carousel{
+    height: 500px;
+    margin-top: 2%;
+}
+
+.video-player{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.divider h1{
+    font-weight: bold;
+    color: #263238;
+}
