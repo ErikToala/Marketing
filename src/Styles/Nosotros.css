@@ -1,0 +1,46 @@
+
+.izquierda{
+    background: linear-gradient(to right, #01579b  0%, #0277bd 100%);
+    height: 500%;
+    width: 40%;
+    text-align: center;
+}
+
+.izquierda .title{
+    text-align: left;
+    letter-spacing: 3px;
+    font-size: 2em;
+    line-height: 35px;
+    padding-bottom: 12px;
+    margin-left: 10%;
+    background: linear-gradient(to right, #fff 0%, #fff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.derecha{
+    background: url("../Static/images/Entretenimiento3.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 60%;
+    
+}
+
+#pantalla-dividida{
+    display: flex;
+}
+
+.creative{
+    color: #fff;
+}
+
+.izquierda p{
+    font-size: 15px;
+    line-height: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    color: #fff;
+    
+
+}
