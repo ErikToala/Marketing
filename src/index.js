@@ -4,7 +4,7 @@ import './Styles/index.css';
 import App from './Templates/App';
 
 ReactDOM.render(
-    <App />,
+    <App/>,
   document.getElementById('root')
 );
 

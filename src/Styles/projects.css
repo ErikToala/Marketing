@@ -14,10 +14,9 @@
 
 .video-player{
     margin-top: 1%;
-    margin-bottom: 1%;
 }
 
-.divider .proyect{
+.divider h3{
     text-align: left;
     letter-spacing: 3px;
     font-size: 2em;
