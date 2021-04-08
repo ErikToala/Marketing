@@ -17,7 +17,15 @@
     margin-bottom: 1%;
 }
 
-.divider h1{
-    font-weight: bold;
-    color: #263238;
+.divider .proyect{
+    text-align: left;
+    letter-spacing: 3px;
+    font-size: 2em;
+    line-height: 35px;
+    color: #01579b;
+    padding-bottom: 12px;
+    margin-left: 4%;
+    background: linear-gradient(to right, #01579b 0%, #01579b 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }

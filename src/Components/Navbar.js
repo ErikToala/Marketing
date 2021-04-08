@@ -18,10 +18,10 @@ function Navbar() {
             </a>
             <ul className="nav">
                 <li className="nav-item">
-                    <a className="nav-link" href="#about-us">NOSOTROS</a>
+                    <a className="nav-link" href="#pantalla-dividida">NOSOTROS</a>
                 </li>
-                <li className="nav-item">
-                    <a className="nav-link" href="#projects">PROYECTOS</a>
+                <li className="nav-item" >
+                    <a className="nav-link" href="#proyectos">PROYECTOS</a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link" href="#contactanos">CONTACTO</a>

@@ -11,8 +11,8 @@
     letter-spacing: 3px;
     font-size: 2em;
     line-height: 35px;
-    padding-bottom: 12px;
     margin-left: 10%;
+    margin-top: 10%;
     background: linear-gradient(to right, #fff 0%, #fff 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

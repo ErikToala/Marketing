@@ -3,9 +3,9 @@ import * as React from 'react';
 function Divider(props){
     return(
         <div className="divider">
-            <h1>
+            <h3 className="proyect">
                 {props.name}
-            </h1>
+            </h3>
         </div>
     );
 }

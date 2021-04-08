@@ -5,7 +5,9 @@ import Divider from "../Components/Divider";
 
 function Proyects (){
     return(
+        
         <div>
+            <div id="proyectos" className="espacio"></div>
             <Divider name="Proyectos"/>
             <Slider/>
             <Video/>

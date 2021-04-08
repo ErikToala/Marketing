@@ -3,7 +3,8 @@ import '../Styles/Contactanos.css';
 
 const Contactanos = () => {
     return(
-        <section id="contactanos" className="get_in_touch">
+        <section className="get_in_touch">
+            <div id="contactanos" className="espacio"></div>
             <h3 className="title">Contáctanos</h3>
             <div className="container">
                 <div className="contact-form row">
